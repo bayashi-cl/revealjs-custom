@@ -6,6 +6,7 @@
 
 ### orange.css
 
+reveal.jsのカスタムテーマ。  
 テキストを左寄せし、全体的に見栄えを整えた。
 
 ### rmd-fix.css
