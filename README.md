@@ -1,6 +1,6 @@
 # revealjs-custom
 
-サンプルは[こちら]()
+サンプルは[こちら](https://bayashi-cl.github.io/revealjs-custom/sample.html)
 
 ## css
 
@@ -23,3 +23,5 @@ Rのrevealjsパッケージから生成されるhtmlとの差を吸収する。
 ### h1-centering.lua
 
 レベル1の見出しにcenterクラスを追加するフィルター。
+
+`-L filter/h1-centering.lua`で適用する。
