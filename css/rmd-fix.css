@@ -1,0 +1,16 @@
+.reveal img{
+    border: none!important;
+    max-height: 500px!important;
+}
+
+.reveal h1.title{
+    margin-top: 20%;
+}
+
+.reveal h1.subtitle,
+.reveal h2.author,
+.reveal h3.date{
+    margin: 0;
+    border: none!important;
+    font-size: 1em;
+}
